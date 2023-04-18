@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">scrollviewExample</string>
+    <string name="new_app_name">Avengers</string>
+    <string name="phonenumber">Enter Your Phone Number</string>
+    <string name="password">Enter Your Password</string>
+    <string name="log_in">Log In</string>
+    <string name="fotgot_password">Fotgot Password?</string>
+    <string name="register_yourself">Register YourSelf</string>
+    <string name="preference_file_name">Avengers Preference</string>
+</resources>
